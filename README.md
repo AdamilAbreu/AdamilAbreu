@@ -36,6 +36,8 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 
 <br>   
