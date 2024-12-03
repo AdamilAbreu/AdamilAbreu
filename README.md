@@ -61,11 +61,7 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 <br>
 
 
-## 🌐 Contacto 
 
-<br>
-
--   <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
   
 
 
