@@ -53,6 +53,7 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 <br>
 
 - *Data Base*:
+
   ![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=sql&logoColor=white)
    ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
