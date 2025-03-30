@@ -29,6 +29,7 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 <p align="center">
 
 - *SKILLS*:
+
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
