@@ -29,14 +29,12 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 <p align="center">
 
 - *SKILLS*:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 
@@ -46,7 +44,7 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 
 - *OS*:
 
-   ![Solaris](https://img.shields.io/badge/Solaris-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Solaris](https://img.shields.io/badge/Solaris-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -54,7 +52,7 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 <br>
 
 - *Data Base*:
-
+  ![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=sql&logoColor=white)
    ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 <br>
 
