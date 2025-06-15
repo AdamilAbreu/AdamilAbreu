@@ -9,7 +9,7 @@
 ## *Acerca de mí*
 
 Soy un desarrollador de software con experiencia en múltiples tecnologías.
-Tengo conocimientos en C# .NET, Python, Java, HTML, CSS, y bases de datos Oracle. 
+Tengo conocimientos en C# .NET, Bootstrap, Laravel,ASP.NET, Javascripts y bases de datos Oracle y SQL. 
 También he trabajado con sistemas operativos Linux y Solaris. Mi enfoque está en 
 seguir aprendiendo y mejorar constantemente mis habilidades en desarrollo de aplicaciones
 y resolución de problemas. Además, me gusta la música, lo que aporta un toque creativo a mi vida profesional.
@@ -32,8 +32,6 @@ y resolución de problemas. Además, me gusta la música, lo que aporta un toque
 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
