@@ -1,67 +1,90 @@
-<h1 align="center" style="color: #00BFFF;"><b>Adamil Abreu</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software..&hearts;" alt="Typing Animation"/>
-  </a>
+# Hi, I'm Adamil Felipe Abreu Jiménez 👋
+
+### Full Stack Software Developer
+
+📍 Monseñor Nouel, Dominican Republic  
+💼 Software Developer | Full Stack Development | Enterprise Applications
+
+I'm a Software Developer experienced in building and maintaining enterprise applications, developing RESTful APIs, modernizing legacy systems, and managing relational databases. I work across frontend and backend technologies, focusing on clean code, maintainability, performance, and practical business solutions.
+
+- 🔭 **Professional experience:** BvSoft and UCATECI
+- 💻 **Frontend:** React, Next.js, Tailwind CSS, Bootstrap
+- ⚙️ **Backend:** C#, ASP.NET, NestJS
+- 🗄️ **Databases:** Microsoft SQL Server, stored procedures
+- ☁️ **Cloud:** Microsoft Azure
+- 🎯 **Interests:** Software architecture, API development, system modernization, and scalable applications
+
+### 🛠️ Technologies & Tools
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css,js,ts" alt="React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript and TypeScript" />
 </p>
 
+**Backend Development**
 
-## *Acerca de mí*
-
-Soy un desarrollador de software con experiencia en múltiples tecnologías.
-Tengo conocimientos en C# .NET, Bootstrap, Laravel,ASP.NET, Javascripts y bases de datos Oracle y SQL. 
-También he trabajado con sistemas operativos Linux y Solaris. Mi enfoque está en 
-seguir aprendiendo y mejorar constantemente mis habilidades en desarrollo de aplicaciones
-y resolución de problemas. Además, me gusta la música, lo que aporta un toque creativo a mi vida profesional.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Status-In%20Progress-blue" alt="Project Status"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs" alt="C#, .NET, NestJS and Node.js" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
 </p>
 
+**Databases & Data Management**
 
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+**Cloud, Development Tools & Reporting**
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,visualstudio" alt="Azure, Docker, Git, GitHub, Visual Studio Code and Visual Studio" />
+  <img src="https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white" alt="DevExpress" />
+</p>
 
-<p align="center">
+### 💼 Professional Experience
 
-- *SKILLS*:
+**UCATECI — Software Developer**  
+*November 2025 – August 2026 | La Vega, Dominican Republic*
 
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- Developed and technically configured the official institutional website.
+- Participated in modernizing legacy applications using React, Next.js, and Tailwind CSS.
+- Built backend services and RESTful endpoints with NestJS, implementing authentication, security measures, and business logic.
+- Managed SQL Server databases and developed stored procedures for data processing and integrity.
+- Integrated frontend, backend, and database components into full-stack solutions.
 
+**BvSoft — Software Developer**  
+*September 2024 – September 2025 | Santiago de los Caballeros, Dominican Republic*
 
+- Developed and maintained enterprise applications using C# and ASP.NET.
+- Participated in platform migration and compatibility improvements.
+- Implemented business logic, data management, and user interface integrations.
+- Developed and optimized SQL queries and stored procedures.
+- Created database-driven reports using DevExpress.
 
-<br>   
+### 🚀 Featured Projects
 
+- **Academa** — Academic management SaaS for multiple educational institutions. *(In development)*
+- **UCATECI Institutional Website** — Institutional web platform development and modernization.
+- **Full Stack Applications** — Backend APIs, database management, and modern frontend implementations.
 
+### 📊 GitHub Statistics
 
-- *OS*:
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamilAbreu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+</p>
 
-  ![Solaris](https://img.shields.io/badge/Solaris-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamilAbreu&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
+### 🤝 Let's Connect
 
-    
-<br>
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 🐙 GitHub: [@AdamilAbreu](https://github.com/AdamilAbreu)
+- 📧 Email: adamilabreu@hotmail.com
 
-- *Data Base*:
+---
 
-  ![SQL](https://img.shields.io/badge/SQL-%230066B8.svg?style=for-the-badge&logo=sql&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-<br>
-
-<br>
-
-
-
-  
-
-
-
+*Building reliable software, one solution at a time.*
